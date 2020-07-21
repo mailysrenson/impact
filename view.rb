@@ -31,7 +31,7 @@ class View
     end
 
     def situation_category
-        puts "Which category do you want?\n 1. Parties & gifts\n 2. @home\n 3. OOH\n 4. Transport"
+        puts "Which category do you want?\n 1. Parties & gifts\n 2. @home\n 3. OOH\n 4. Transport\n 5. Cosmetics"
         input = gets.chomp.to_i
         case input
         when 1
@@ -42,6 +42,8 @@ class View
           category = " OOH"
         when 4
           category = " transport"
+        when 5
+          category = " cosmetics"
         else
           puts "wrong category"
         end
