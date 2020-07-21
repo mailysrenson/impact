@@ -3,7 +3,7 @@ require 'pry-byebug'
 class Controller
     def initialize(challenges)
       @challenges = challenges
-      @view = View.new
+      @view = ChallengeView.new
     end
 
     def list

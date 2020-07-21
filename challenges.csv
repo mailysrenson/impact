@@ -1,33 +1,33 @@
-description, investment, situation
-Use a reusable bottle, < 10€, OOH
-Use reusable wrapping paper for gifts, DIY, parties and gifts
-Use fabric napkins instead of the paper ones, DIY, @home
-Use the bike for all trips of less than 3 km, free, transport
-Buy fresh products instead of freezed products, free, shopping
-Use beeswax packaging instead of plastic packaging to keep your food fresh, DIY, @home
-Say no to individual sauces when ordering take-away, free, @home
-Choose the ice-cream cone to avoid any waste, free, OOH
-Take your reusable coffee cup with you when travelling, < 10€, OOH
-Buy as much as possible from local shops and craftsmen (bread, fish, vegeteables and fruit, etc.), free, shopping
-Always take a reusable bag with you when you go shopping, free, shopping
-Buy your dry products in a plastic free shop, free, shopping
-Plant fresh aromatics and use them all year long instead of buying small portions in plastic packaging, < 10€, shopping
-Avoid buying chips, their packaging is one of the worst packaging! Make them yourself instead, DIY, @home
-Buy lose tea instead of individual tea bags, < 10€, shopping
-Buy individual fruits and vegetables instead of packed bulks, free, shopping
-Always take your vegetables/fruits bags to go to the shop, < 10€, shopping
-Never buy already cut fruit in plastic. Mother nature gave fruits a peel for a reason, free, shopping
-Prefer eating out than take-away, free, OOH
-Avoid chewing-gum (the main ingredient is a type of plastic), free, shopping
-Prefer aluminum cans to plastic bottles, free, shopping
-Take your cutlery with you when picknicking, free, OOH
-Drink tap water, free, @home
-Say no to the straw, free, OOH
-Make your own cleaning products, DIY, @home
-Buy the biggest product you can if you still need to buy a packed product, free, shopping
-Use shampoo bars instead of shampoo bottles, < 10€, cosmetics
-Use soap instead of showergel, < 10€, cosmetics
-Try soapnuts, 10-50€, @home
-Use a bamboo toothbrush, <10€, cosmetics
-Use an oriculi instead of cotton swabs, <10€, cosmetics
-Make your own deodorant (good for the planet and even better for your skin!), DIY, cosmetics
+id, description, investment, situation
+1,Use a reusable bottle, < 10€, OOH
+2,Use reusable wrapping paper for gifts, DIY, parties and gifts
+3,Use fabric napkins instead of the paper ones, DIY, @home
+4,Use the bike for all trips of less than 3 km, free, transport
+5,Buy fresh products instead of freezed products, free, shopping
+6,Use beeswax packaging instead of plastic packaging to keep your food fresh, DIY, @home
+7,Say no to individual sauces when ordering take-away, free, @home
+8,Choose the ice-cream cone to avoid any waste, free, OOH
+9,Take your reusable coffee cup with you when travelling, < 10€, OOH
+10,Buy as much as possible from local shops and craftsmen (bread, fish, vegeteables and fruit, etc.), free, shopping
+11,Always take a reusable bag with you when you go shopping, free, shopping
+12,Buy your dry products in a plastic free shop, free, shopping
+13,Plant fresh aromatics and use them all year long instead of buying small portions in plastic packaging, < 10€, shopping
+14,Avoid buying chips, their packaging is one of the worst packaging! Make them yourself instead, DIY, @home
+15,Buy lose tea instead of individual tea bags, < 10€, shopping
+16,Buy individual fruits and vegetables instead of packed bulks, free, shopping
+17,Always take your vegetables/fruits bags to go to the shop, < 10€, shopping
+18,Never buy already cut fruit in plastic. Mother nature gave fruits a peel for a reason, free, shopping
+19,Prefer eating out than take-away, free, OOH
+20,Avoid chewing-gum (the main ingredient is a type of plastic), free, shopping
+21,Prefer aluminum cans to plastic bottles, free, shopping
+22,Take your cutlery with you when picknicking, free, OOH
+23,Drink tap water, free, @home
+24,Say no to the straw, free, OOH
+25,Make your own cleaning products, DIY, @home
+26,Buy the biggest product you can if you still need to buy a packed product, free, shopping
+27,Use shampoo bars instead of shampoo bottles, < 10€, cosmetics
+28,Use soap instead of showergel, < 10€, cosmetics
+29,Try soapnuts, 10-50€, @home
+30,Use a bamboo toothbrush, <10€, cosmetics
+31,Use an oriculi instead of cotton swabs, <10€, cosmetics
+32,Make your own deodorant (good for the planet and even better for your skin!), DIY, cosmetics

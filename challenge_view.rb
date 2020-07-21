@@ -1,6 +1,10 @@
 require 'pry-byebug'
 
-class View
+class ChallengeView
+    def initialize
+
+    end
+    
     def display(challenges)
       challenges.each_with_index do |challenge, index|
         puts "Challenge #{index + 1} - #{challenge.description}"

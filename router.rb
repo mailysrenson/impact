@@ -25,7 +25,8 @@ class Router
       when 2 then @controller.filter_by_investment
       when 3 then @controller.filter_by_situation
       when 4 then @controller.random_challenge
-      when 5 then stop
+      # when 5 then @user_controller.
+      when 6 then stop
       else
         puts "Please press 1, 2, 3 or 4"
       end
@@ -43,7 +44,7 @@ class Router
         puts "2 - Filter the challenges by investment"
         puts "3 - Filter the challenges by situation"
         puts "4 - Get a random challenge"
-        puts "5 - Stop and exit the program"
+        puts "6 - Stop and exit the program"
       end
 
 end
